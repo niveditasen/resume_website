@@ -1,0 +1,46 @@
+h1{
+	 text-align: center;
+	 padding: 12px;
+}
+.profile{
+	text-align: right;
+}
+
+img{
+	float:right; ;
+	border: 1px solid black;
+	margin: 10px;
+	height: 90px;
+	width: 70px;
+}
+h2{
+	align-content: left;
+}
+
+body{
+	border: 1px solid black;
+}
+
+button{
+	border: 1px solid black;
+	width: 200px;
+	height: 60px;
+	margin: 10px;
+}
+button:hover{
+	background-color: #ff0000;
+	color:#66c285;
+}
+
+div{
+
+	border: 4px ;
+	position: absolute;
+	width: 100%;
+	top:  270px;
+	left: 300px;
+	padding: 12px;
+}
+footer{
+	text-align: center;
+}
